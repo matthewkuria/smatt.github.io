@@ -134,7 +134,7 @@ nav {
 	margin: auto;
 	padding-top: 12%;
 }
-@media only screen and (min-width: 768px) and (max-width: 991px) {
+@media only screen and (min-width: 576px) and (max-width: 991px) {
 	.wrapper {
 		width: 75%;
 		padding-top: 26%;
@@ -149,7 +149,7 @@ nav {
 		width: 100%;
 	}
 }
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 576px) {
 	.banner {
 		background-position: 60%;
 	}
